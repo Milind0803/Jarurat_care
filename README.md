@@ -51,7 +51,7 @@ src/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd jarurat-care-dashboard
+   cd jarurat-care
    ```
 
 2. **Install dependencies**
@@ -111,6 +111,7 @@ yarn preview
 ### 1. **Home Page**
 - Welcome screen with Jarurat Care branding
 - Feature highlights and navigation to patients section
+
 
 ### 2. **Patients Dashboard**
 - Display patient list in responsive card layout
@@ -234,4 +235,4 @@ This project is created for educational and internship evaluation purposes.
 
 ---
 
-**Note**: This is a frontend-only application with mock data. For production use, integrate with a proper backend API and database system.
+**Note**: This is a frontend-only application with mock data. For production use, integrate with a proper backend API and database system
